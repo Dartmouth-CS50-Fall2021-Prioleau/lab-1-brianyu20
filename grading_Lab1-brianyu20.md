@@ -13,15 +13,15 @@
 -------------------
 |Problem|Score|
 |:-------|------:|
-|Delivery|$\frac{5}{5}$|
-|Problem A|$\frac{5}{5}$|
-|Problem B|$\frac{3}{5}$|
-|Problem C|$\frac{5}{5}$|
-|Problem D|$\frac{10}{10}$|
-|Problem E|$\frac{10}{10}$|
-|Problem F|$\frac{10}{10}$|
-|Problem G|$\frac{5}{10}$|
-|Problem H|$\frac{40}{40}$|
+|Delivery|5/5|
+|Problem A|5/5|
+|Problem B|3/5|
+|Problem C|5/5|
+|Problem D|10/10|
+|Problem E|10/10|
+|Problem F|10/10|
+|Problem G|5/10|
+|Problem H|40/40|
 |**TOTAL**|**93**|
 
 ### Delivery
