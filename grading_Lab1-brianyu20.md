@@ -218,7 +218,7 @@ Recall the prompt:
 >
 > +1 for clean exit
 >
-> **TOTAL: $40$**
+> **TOTAL: 40**
 
 #### Comments
 
