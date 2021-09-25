@@ -204,7 +204,7 @@ Recall the prompt:
 >
 > +3 for checking readability of `vaccine.csv`.
 >
-> +3 for in-code comments (-3 for not commenting). Comments inside your code help whoever is reading it follow waht's happening. It's good practice to *not* overcomment (for example, you don't need a comment for a print statement or an echo), but it's also good practice to add periodic comments that help follow the logic of your comment (for example, `# check if a valid number of arguments were passed. If not, exit.`")
+> +3 for in-code comments.
 >
 > +6 for proper use of loops and other control structures.
 >
